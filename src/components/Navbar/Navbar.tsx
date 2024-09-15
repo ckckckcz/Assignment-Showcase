@@ -4,7 +4,7 @@ import DropdownUser from "./components/DropdownUser";
 import ListNavbar from "./components/ListNavbar";
 export const Navbar = () => {
   return (
-    <nav className="bg-white border-gray-200 border-2 navbars dark:bg-gray-900 rounded-full">
+    <nav className="bg-white border-gray-200 border-2 navbars dark:bg-gray-900 rounded-full z-20">
       <div className="max-w-screen-xl w-full flex flex-wrap items-center justify-between mx-auto p-5">
         <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img src="https://flowbite.com/docs/images/logo.svg" className="h-8" alt="Flowbite Logo" />
