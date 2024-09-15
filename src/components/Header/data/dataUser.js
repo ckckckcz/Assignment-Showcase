@@ -2,7 +2,7 @@ export const userData = [
   {
     id: 1,
     quote: {
-      title: "Very easy this was to integrate",
+      title: "Gue bingung deh, web ini tuh buat apa sih? 🙄",
       text: "walweh",
     },
     author: {
@@ -14,8 +14,7 @@ export const userData = [
   {
     id: 2,
     quote: {
-      title: "Solid foundation for any project",
-      text: "anu",
+      title: "Eh, website ini gunanya buat apa, bro? 😅",
     },
     author: {
       name: "Roberta Casas",
@@ -26,8 +25,7 @@ export const userData = [
   {
     id: 3,
     quote: {
-      title: "Solid foundation for any project",
-      text: "anu",
+      title: "Sumpah, website ini fungsinya apaan ya? 😕",
     },
     author: {
       name: "Jese Leos",
@@ -38,8 +36,7 @@ export const userData = [
   {
     id: 4,
     quote: {
-      title: "Solid foundation for any project",
-      text: "anu",
+      title: "Web ini sebenernya buat apa sih? 🤔",
     },
     author: {
       name: "Joseph McFall",
